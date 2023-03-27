@@ -1,7 +1,3 @@
-# 21-10-9
-# kli
-# Get Matrix
-
 import cooler
 import numpy as np
 import os
