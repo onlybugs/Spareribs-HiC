@@ -1,6 +1,4 @@
-# 21-10-10
-# kli
-# Tads Plot 1
+
 
 library(ggplot2)
 library(dplyr)
