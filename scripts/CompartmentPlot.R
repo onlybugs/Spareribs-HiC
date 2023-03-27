@@ -1,7 +1,3 @@
-# 21-10-11
-# kli
-# whole chr
-
 library(pheatmap)
 library(RColorBrewer)
 
