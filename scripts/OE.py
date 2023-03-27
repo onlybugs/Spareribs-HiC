@@ -1,5 +1,3 @@
-# 21-10-13
-# kli
 # mat -> OE/corr
 
 import cooler
