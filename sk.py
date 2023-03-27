@@ -1,8 +1,3 @@
-# 10-8
-# kaili
-# zero flow
-# ...
-
 # snakemake -s sk.py -np
 # snakemake -s sk.py --dag | dot -Tpdf > dag.pdf
 
