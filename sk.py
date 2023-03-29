@@ -4,7 +4,6 @@
 import re
 import os
 
-# indir:in  seqformate:{spec}_R*.fq
 def GetKeys():
     seq_path = os.getcwd() + '/' + 'in'
     seq_names = os.listdir(seq_path)
